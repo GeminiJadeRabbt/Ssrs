@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README.md">简中</a> | <a href="[zh_tw]README.md">繁中</a> | <a href="[en_us]README.md">English</a> | <a href="[fr_fr]README.md">Français</a> | <a href="[ko_kr]README_ko.md">한국어</a>
+  <a href="README.md">简中</a> | <a href="[zh_tw]README.md">繁中</a> | <a href="[en_us]README.md">English</a> | <a href="[fr_fr]README.md">Français</a> | <a href="[ko_kr]README.md">한국어</a>
 </div>
 
 # SsrsPack
