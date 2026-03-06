@@ -1,4 +1,4 @@
-# SsrsPack
+#SsrsPack
 
 在确保高质量视觉效果、沉浸式音效和性能优化的同时，这款整合包对游戏内容进行了深度改造，致力于为您带来一个极具沉浸感的全新体验。
 
@@ -18,9 +18,9 @@
 
 如果您在游玩中遇到任何问题，或者有任何宝贵的建议与反馈，欢迎在我们提供的交流渠道寻求帮助，我们会尽力为您解答与协助：
 
-* [![QQ](https://img.shields.io/badge/QQ群-加入探讨-blue?logo=qq)](https://qm.qq.com/q/BgAs6WOpva) [点击加入 QQ 群](https://qm.qq.com/q/BgAs6WOpva)
-* [![OOPZ](https://img.shields.io/badge/OOPZ-社区频道-black)](https://oopz.cn/i/goV6rf) [点击进入 OOPZ](https://oopz.cn/i/goV6rf)
-* [![Discord](https://img.shields.io/badge/Discord-加入服务器-7289DA?logo=discord&logoColor=white)](https://discord.gg/WTCnDjke) [点击加入 Discord](https://discord.gg/WTCnDjke)
+* [![QQ](https://img.shields.io/badge/QQ 群-加入讨论-blue?logo=qq)](https://qm.qq.com/q/BgAs6WOpva) [点击加入 QQ 群 ](https://qm.qq.com/q/BgAs6WOpva)  
+* [![OOPZ](https://img.shields.io/badge/OOPZ-社区频道-black)](https://oopz.cn/i/goV6rf) [点击进入 OOPZ](https://oopz.cn/i/goV6rf)  
+* [![Discord](https://img.shields.io/badge/Discord-加入服务器-7289DA?logo=discord&logoColor=white)](https://discord.gg/WTCnDjke) [点击加入 Discord](https://discord.gg/ArwAB9fkB6)
 
 ---
 *感谢您对 SsrsPack 的关注与支持！*
